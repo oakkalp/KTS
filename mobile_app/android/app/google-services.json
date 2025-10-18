@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191371700657",
+    "project_id": "kuryebildirim",
+    "storage_bucket": "kuryebildirim.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191371700657:android:80d78c3d716287a608f590",
+        "android_client_info": {
+          "package_name": "com.example.kurye_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlDZllTX5oJlH0w7Hee5bHXFTRjILp4iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

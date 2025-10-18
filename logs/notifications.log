@@ -1,0 +1,1756 @@
+[2025-09-26 03:51:06] [INFO] Device token updated for user: testkurye (Type: android)
+[2025-09-26 03:51:25] [INFO] Test notification sent to: testkurye (Token: test_fcm_token_123456789)
+[2025-09-26 03:51:25] [WARNING] Notification history save error: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.bildirimler' doesn't exist
+[2025-09-26 06:17:56] [INFO] Push notification sent. HTTP Code: 404, Response: <HTML>
+<HEAD>
+<TITLE>Not Found</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Not Found</H1>
+<H2>Error 404</H2>
+</BODY>
+</HTML>
+
+[2025-09-26 06:18:08] [INFO] Push notification sent. HTTP Code: 404, Response: <HTML>
+<HEAD>
+<TITLE>Not Found</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Not Found</H1>
+<H2>Error 404</H2>
+</BODY>
+</HTML>
+
+[2025-09-26 06:19:19] [INFO] Push notification sent. HTTP Code: 404, Response: <HTML>
+<HEAD>
+<TITLE>Not Found</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+<!-- GSE Default Error -->
+<H1>Not Found</H1>
+<H2>Error 404</H2>
+</BODY>
+</HTML>
+
+[2025-09-26 06:30:02] [INFO] FCM v1 notification sent to token test_fcm_token_12345... HTTP: 400
+[2025-09-26 06:30:02] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 06:30:02] [WARNING] FCM v1 errors: Token: test_fcm_token_12345... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "The registration token is not a valid FCM registration token",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.firebase.fcm.v1.FcmError",
+        "errorCode": "INVALID_ARGUMENT"
+      }
+    ]
+  }
+}
+
+[2025-09-26 06:30:11] [INFO] FCM v1 notification sent to token test_fcm_token_12345... HTTP: 400
+[2025-09-26 06:30:11] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 06:30:11] [WARNING] FCM v1 errors: Token: test_fcm_token_12345... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "The registration token is not a valid FCM registration token",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.firebase.fcm.v1.FcmError",
+        "errorCode": "INVALID_ARGUMENT"
+      }
+    ]
+  }
+}
+
+[2025-09-26 06:35:35] [INFO] FCM v1 notification sent to token eyJ0eXAiOiJKV1QiLCJh... HTTP: 400
+[2025-09-26 06:35:35] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 06:35:35] [WARNING] FCM v1 errors: Token: eyJ0eXAiOiJKV1QiLCJh... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "The registration token is not a valid FCM registration token",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.firebase.fcm.v1.FcmError",
+        "errorCode": "INVALID_ARGUMENT"
+      }
+    ]
+  }
+}
+
+[2025-09-26 06:35:35] [INFO] FCM v1 notification sent to token eyJ0eXAiOiJKV1QiLCJh... HTTP: 400
+[2025-09-26 06:35:35] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 06:35:35] [WARNING] FCM v1 errors: Token: eyJ0eXAiOiJKV1QiLCJh... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 44\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 44"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 06:39:26] [INFO] FCM v1 notification sent to token eyJ0eXAiOiJKV1QiLCJh... HTTP: 400
+[2025-09-26 06:39:26] [INFO] FCM v1 notification sent to token eyJhbGciOiJSUzI1NiIs... HTTP: 400
+[2025-09-26 06:39:26] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 06:39:26] [WARNING] FCM v1 errors: Token: eyJ0eXAiOiJKV1QiLCJh... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "The registration token is not a valid FCM registration token",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.firebase.fcm.v1.FcmError",
+        "errorCode": "INVALID_ARGUMENT"
+      }
+    ]
+  }
+}
+; Token: eyJhbGciOiJSUzI1NiIs... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "The registration token is not a valid FCM registration token",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.firebase.fcm.v1.FcmError",
+        "errorCode": "INVALID_ARGUMENT"
+      }
+    ]
+  }
+}
+
+[2025-09-26 06:39:38] [INFO] FCM v1 notification sent to token dGVzdF9mY21fdG9rZW5f... HTTP: 400
+[2025-09-26 06:39:38] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 06:39:38] [WARNING] FCM v1 errors: Token: dGVzdF9mY21fdG9rZW5f... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "The registration token is not a valid FCM registration token",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.firebase.fcm.v1.FcmError",
+        "errorCode": "INVALID_ARGUMENT"
+      }
+    ]
+  }
+}
+
+[2025-09-26 06:44:22] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 06:44:22] [INFO] FCM v1 notification summary: 1/1 successful
+[2025-09-26 06:44:22] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 06:44:22] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 06:44:22] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 95\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 95"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 06:44:57] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 06:44:57] [INFO] FCM v1 notification summary: 1/1 successful
+[2025-09-26 06:44:58] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 06:44:58] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 06:44:58] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 262\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 262"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 07:25:01] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 07:25:01] [INFO] FCM v1 notification summary: 1/1 successful
+[2025-09-26 07:25:01] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 07:25:01] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 07:25:01] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 262\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 262"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 07:25:23] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 07:25:23] [INFO] FCM v1 notification summary: 1/1 successful
+[2025-09-26 07:25:24] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 07:25:24] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 07:25:24] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 95\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 95"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 08:10:07] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 08:10:07] [INFO] FCM v1 notification summary: 1/1 successful
+[2025-09-26 08:10:08] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 08:10:08] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 08:10:08] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 5595\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 5595"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 08:20:41] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 08:20:41] [INFO] FCM v1 notification summary: 1/1 successful
+[2025-09-26 08:20:41] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 08:20:41] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 08:20:41] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 08:20:52] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 08:20:52] [INFO] FCM v1 notification summary: 1/1 successful
+[2025-09-26 08:20:52] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 08:20:52] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 08:20:52] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 84\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 84"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 08:21:04] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 08:21:04] [INFO] FCM v1 notification summary: 1/1 successful
+[2025-09-26 08:21:05] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 08:21:05] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 08:21:05] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 08:21:25] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 08:21:25] [INFO] FCM v1 notification summary: 1/1 successful
+[2025-09-26 08:21:26] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 08:21:26] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 08:21:26] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 08:35:39] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 08:36:21] [INFO] Device token updated for user: test_kurye (Type: android)
+[2025-09-26 08:38:52] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 08:38:52] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 08:38:52] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 08:38:53] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 08:38:53] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 08:38:53] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 08:38:53] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 84\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 84"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 84\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 84"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 08:38:54] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 08:38:54] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 08:38:54] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 08:38:54] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 08:38:55] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 08:38:55] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 08:38:55] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 84\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 84"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 84\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 84"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 08:48:16] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 08:48:16] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 08:48:16] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 08:48:17] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 08:48:17] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 08:48:17] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 08:48:17] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 62\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 62"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 62\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 62"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 08:49:08] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 08:49:09] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 08:49:09] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 08:49:10] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 08:49:10] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 08:49:10] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 08:49:10] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 42\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 42"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 42\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 42"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 08:50:48] [INFO] Device token updated for user: test_kurye (Type: android)
+[2025-09-26 08:50:59] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 08:59:50] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 09:04:18] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 09:07:24] [INFO] Device token updated for user: test_kurye (Type: android)
+[2025-09-26 09:07:35] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 09:08:21] [INFO] Device token updated for user: test_kurye (Type: android)
+[2025-09-26 09:08:58] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 09:08:59] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 200
+[2025-09-26 09:08:59] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 09:08:59] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 09:08:59] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 400
+[2025-09-26 09:08:59] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 09:08:59] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: fLTt_5irSiuCDlXdIELQ... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 09:12:44] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 09:12:44] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 200
+[2025-09-26 09:12:44] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 09:12:45] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 09:12:45] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 400
+[2025-09-26 09:12:45] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 09:12:45] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 51\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 51"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: fLTt_5irSiuCDlXdIELQ... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 51\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 51"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 09:32:56] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 09:32:56] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 200
+[2025-09-26 09:32:56] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 09:32:56] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 09:32:57] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 400
+[2025-09-26 09:32:57] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 09:32:57] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: fLTt_5irSiuCDlXdIELQ... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 09:33:26] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 09:33:26] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 200
+[2025-09-26 09:33:26] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 09:33:26] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 09:33:27] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 400
+[2025-09-26 09:33:27] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 09:33:27] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 45\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 45"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: fLTt_5irSiuCDlXdIELQ... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 45\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 45"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 09:35:53] [INFO] Device token updated for user: test_kurye (Type: android)
+[2025-09-26 09:36:25] [INFO] Device token updated for user: test_kurye (Type: android)
+[2025-09-26 09:39:56] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 09:39:57] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 200
+[2025-09-26 09:39:57] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 09:39:57] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 09:39:57] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 400
+[2025-09-26 09:39:57] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 09:39:57] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 817\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 817"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: fLTt_5irSiuCDlXdIELQ... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 817\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 817"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 09:41:04] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 09:41:04] [INFO] FCM v1 notification summary: 1/1 successful
+[2025-09-26 09:43:19] [INFO] Device token updated for user: test_kurye (Type: android)
+[2025-09-26 09:43:38] [INFO] Device token updated for user: test_kurye (Type: android)
+[2025-09-26 09:46:43] [INFO] Device token updated for user: test_kurye (Type: android)
+[2025-09-26 09:48:17] [INFO] Device token updated for user: test_kurye (Type: android)
+[2025-09-26 09:50:01] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 200
+[2025-09-26 09:50:01] [INFO] FCM v1 notification summary: 1/1 successful
+[2025-09-26 09:50:03] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 400
+[2025-09-26 09:50:03] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 09:50:03] [WARNING] FCM v1 errors: Token: fLTt_5irSiuCDlXdIELQ... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 95\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 95"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 10:00:18] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 10:00:18] [INFO] FCM v1 notification summary: 1/1 successful
+[2025-09-26 10:04:36] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 10:04:47] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 10:05:13] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 12:01:23] [INFO] Device token updated for user: test_kurye (Type: android)
+[2025-09-26 12:01:39] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 12:01:55] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 12:01:55] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 12:01:55] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 12:01:55] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 12:01:56] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 12:01:56] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 12:01:56] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 106\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 106"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 106\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 106"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 12:02:46] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 12:02:46] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 12:02:46] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 12:02:47] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 12:02:47] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 12:02:47] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 12:02:47] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 5595\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 5595"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 5595\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 5595"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 12:03:38] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 12:06:19] [INFO] Device token updated for user: test_kurye (Type: android)
+[2025-09-26 12:06:43] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 200
+[2025-09-26 12:06:44] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 200
+[2025-09-26 12:06:44] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 12:06:44] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 400
+[2025-09-26 12:06:45] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 400
+[2025-09-26 12:06:45] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 12:06:45] [WARNING] FCM v1 errors: Token: fLTt_5irSiuCDlXdIELQ... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 95\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 95"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: fLTt_5irSiuCDlXdIELQ... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 95\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 95"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 12:15:14] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 200
+[2025-09-26 12:15:14] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 200
+[2025-09-26 12:15:14] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 12:15:15] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 400
+[2025-09-26 12:15:15] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 400
+[2025-09-26 12:15:15] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 12:15:15] [WARNING] FCM v1 errors: Token: fLTt_5irSiuCDlXdIELQ... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: fLTt_5irSiuCDlXdIELQ... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 12:15:31] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 12:17:00] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 12:18:01] [INFO] Device token updated for user: test_kurye (Type: android)
+[2025-09-26 12:18:47] [INFO] Device token updated for user: 3 (Type: android)
+[2025-09-26 12:22:00] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 12:22:00] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 12:22:00] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[1].value' (TYPE_STRING), 46",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[1].value",
+            "description": "Invalid value at 'message.data[1].value' (TYPE_STRING), 46"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 12:22:00] [ERROR] Failed to send courier assignment notification to courier ID: 2 for order ID: 46
+[2025-09-26 12:36:58] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 200
+[2025-09-26 12:36:58] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 12:36:58] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 12:36:59] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 400
+[2025-09-26 12:36:59] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 12:36:59] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 12:36:59] [WARNING] FCM v1 errors: Token: fLTt_5irSiuCDlXdIELQ... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 12:48:30] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 12:49:05] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 15:26:28] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 17:36:30] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 17:38:01] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 17:38:25] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 200
+[2025-09-26 17:38:25] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 17:38:25] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 17:38:26] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 400
+[2025-09-26 17:38:26] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 17:38:26] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 17:38:26] [WARNING] FCM v1 errors: Token: fLTt_5irSiuCDlXdIELQ... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 484"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 17:41:26] [INFO] Sending notification to courier ID: 2, Token: drcMOrakQxGGqEEGXXVg...
+[2025-09-26 17:41:26] [INFO] Notification data: {"type":"order_assigned","order_id":1,"order_number":"ORD202509262537","restaurant_name":"Test Restoran\u0131","customer_name":"onur","customer_address":"www"}
+[2025-09-26 17:41:26] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 17:41:26] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 17:41:26] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[1].value' (TYPE_STRING), 1",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[1].value",
+            "description": "Invalid value at 'message.data[1].value' (TYPE_STRING), 1"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 17:41:26] [ERROR] ❌ Failed to send courier assignment notification to courier ID: 2 for order ID: 1
+[2025-09-26 17:41:31] [INFO] Sending notification to courier ID: 2, Token: drcMOrakQxGGqEEGXXVg...
+[2025-09-26 17:41:31] [INFO] Notification data: {"type":"order_assigned","order_id":1,"order_number":"ORD202509262537","restaurant_name":"Test Restoran\u0131","customer_name":"onur","customer_address":"www"}
+[2025-09-26 17:41:32] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 17:41:32] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 17:41:32] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[1].value' (TYPE_STRING), 1",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[1].value",
+            "description": "Invalid value at 'message.data[1].value' (TYPE_STRING), 1"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 17:41:32] [ERROR] ❌ Failed to send courier assignment notification to courier ID: 2 for order ID: 1
+[2025-09-26 17:41:35] [INFO] Sending notification to courier ID: 2, Token: drcMOrakQxGGqEEGXXVg...
+[2025-09-26 17:41:35] [INFO] Notification data: {"type":"order_assigned","order_id":1,"order_number":"ORD202509262537","restaurant_name":"Test Restoran\u0131","customer_name":"onur","customer_address":"www"}
+[2025-09-26 17:41:36] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 17:41:36] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 17:41:36] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[1].value' (TYPE_STRING), 1",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[1].value",
+            "description": "Invalid value at 'message.data[1].value' (TYPE_STRING), 1"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 17:41:36] [ERROR] ❌ Failed to send courier assignment notification to courier ID: 2 for order ID: 1
+[2025-09-26 17:41:37] [INFO] Sending notification to courier ID: 2, Token: drcMOrakQxGGqEEGXXVg...
+[2025-09-26 17:41:37] [INFO] Notification data: {"type":"order_assigned","order_id":1,"order_number":"ORD202509262537","restaurant_name":"Test Restoran\u0131","customer_name":"onur","customer_address":"www"}
+[2025-09-26 17:41:37] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 17:41:37] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 17:41:37] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[1].value' (TYPE_STRING), 1",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[1].value",
+            "description": "Invalid value at 'message.data[1].value' (TYPE_STRING), 1"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 17:41:37] [ERROR] ❌ Failed to send courier assignment notification to courier ID: 2 for order ID: 1
+[2025-09-26 17:42:03] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 200
+[2025-09-26 17:42:03] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 17:42:03] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 17:42:04] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 400
+[2025-09-26 17:42:04] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 17:42:04] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 17:42:04] [WARNING] FCM v1 errors: Token: fLTt_5irSiuCDlXdIELQ... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 44\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 44"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 44\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 44"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 17:42:12] [INFO] Sending notification to courier ID: 2, Token: drcMOrakQxGGqEEGXXVg...
+[2025-09-26 17:42:12] [INFO] Notification data: {"type":"order_assigned","order_id":2,"order_number":"ORD202509266259","restaurant_name":"Test Restoran\u0131","customer_name":"onur","customer_address":"r"}
+[2025-09-26 17:42:12] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 17:42:12] [INFO] FCM v1 notification summary: 0/1 successful
+[2025-09-26 17:42:12] [WARNING] FCM v1 errors: Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[1].value' (TYPE_STRING), 2",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[1].value",
+            "description": "Invalid value at 'message.data[1].value' (TYPE_STRING), 2"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 17:42:12] [ERROR] ❌ Failed to send courier assignment notification to courier ID: 2 for order ID: 2
+[2025-09-26 17:53:31] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 17:53:41] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 17:56:24] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 200
+[2025-09-26 17:56:24] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 17:56:24] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 17:56:25] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 400
+[2025-09-26 17:56:25] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 17:56:25] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 17:56:25] [WARNING] FCM v1 errors: Token: fLTt_5irSiuCDlXdIELQ... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 44\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 44"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 44\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 44"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 17:57:19] [INFO] Sending notification to courier ID: 2, Token: drcMOrakQxGGqEEGXXVg...
+[2025-09-26 17:57:19] [INFO] Notification data: {"type":"order_assigned","order_id":"3","order_number":"ORD202509262577","restaurant_name":"Test Restoran\u0131","customer_name":"onur","customer_address":"rrrrrr"}
+[2025-09-26 17:57:20] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 17:57:20] [INFO] FCM v1 notification summary: 1/1 successful
+[2025-09-26 17:57:20] [INFO] ✅ Courier assignment notification sent successfully to courier ID: 2 for order ID: 3
+[2025-09-26 17:58:40] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 17:58:40] [INFO] FCM v1 notification summary: 1/1 successful
+[2025-09-26 17:58:41] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 400
+[2025-09-26 17:58:41] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 17:58:41] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 17:58:41] [WARNING] FCM v1 errors: Token: fLTt_5irSiuCDlXdIELQ... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 95\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 95"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 95\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 95"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 18:05:18] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 18:18:53] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 18:20:05] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 18:20:36] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 18:21:24] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 200
+[2025-09-26 18:21:25] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 18:21:25] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 18:21:25] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 400
+[2025-09-26 18:21:25] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 18:21:25] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 18:21:25] [WARNING] FCM v1 errors: Token: fLTt_5irSiuCDlXdIELQ... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 595\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 595"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 595\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 595"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 18:21:26] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 200
+[2025-09-26 18:21:26] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 18:21:26] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 18:21:27] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 400
+[2025-09-26 18:21:28] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 18:21:28] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 18:21:28] [WARNING] FCM v1 errors: Token: fLTt_5irSiuCDlXdIELQ... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 595\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 595"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 595\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 595"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 18:22:15] [INFO] Sending notification to courier ID: 2, Token: drcMOrakQxGGqEEGXXVg...
+[2025-09-26 18:22:15] [INFO] Notification data: {"type":"order_assigned","order_id":"5","order_number":"ORD202509264607","restaurant_name":"Test Restoran\u0131","customer_name":"onur","customer_address":"rrrr"}
+[2025-09-26 18:22:16] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 18:22:16] [INFO] FCM v1 notification summary: 1/1 successful
+[2025-09-26 18:22:16] [INFO] ✅ Courier assignment notification sent successfully to courier ID: 2 for order ID: 5
+[2025-09-26 20:29:53] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 200
+[2025-09-26 20:29:53] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 20:29:53] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-09-26 20:29:54] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 400
+[2025-09-26 20:29:54] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-09-26 20:29:54] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-09-26 20:29:54] [WARNING] FCM v1 errors: Token: fLTt_5irSiuCDlXdIELQ... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 62\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 62"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 62\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 62"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-09-26 20:30:39] [INFO] Device token updated for user: 2 (Type: android)
+[2025-09-26 20:30:53] [INFO] Sending notification to courier ID: 2, Token: drcMOrakQxGGqEEGXXVg...
+[2025-09-26 20:30:53] [INFO] Notification data: {"type":"order_assigned","order_id":"7","order_number":"ORD202509269525","restaurant_name":"Test Restoran\u0131","customer_name":"onur","customer_address":"lll"}
+[2025-09-26 20:30:54] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-09-26 20:30:54] [INFO] FCM v1 notification summary: 1/1 successful
+[2025-09-26 20:30:54] [INFO] ✅ Courier assignment notification sent successfully to courier ID: 2 for order ID: 7
+[2025-10-04 12:36:33] [INFO] Device token updated for user: 2 (Type: android)
+[2025-10-04 12:57:32] [INFO] Device token updated for user: 2 (Type: android)
+[2025-10-04 12:57:47] [INFO] Device token updated for user: 2 (Type: android)
+[2025-10-04 12:57:58] [INFO] Device token updated for user: 2 (Type: android)
+[2025-10-04 12:58:51] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 200
+[2025-10-04 12:58:51] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-10-04 12:58:51] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-10-04 12:58:52] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 400
+[2025-10-04 12:58:52] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 400
+[2025-10-04 12:58:52] [INFO] FCM v1 notification summary: 0/2 successful
+[2025-10-04 12:58:52] [WARNING] FCM v1 errors: Token: fLTt_5irSiuCDlXdIELQ... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 195\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 195"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+; Token: drcMOrakQxGGqEEGXXVg... HTTP: 400 Response: {
+  "error": {
+    "code": 400,
+    "message": "Invalid value at 'message.data[3].value' (TYPE_STRING), 195\nInvalid value at 'message.data[4].value' (TYPE_STRING), 40",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "message.data[3].value",
+            "description": "Invalid value at 'message.data[3].value' (TYPE_STRING), 195"
+          },
+          {
+            "field": "message.data[4].value",
+            "description": "Invalid value at 'message.data[4].value' (TYPE_STRING), 40"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+[2025-10-04 13:04:05] [INFO] FCM v1 notification sent to token fLTt_5irSiuCDlXdIELQ... HTTP: 200
+[2025-10-04 13:04:05] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-10-04 13:04:05] [INFO] FCM v1 notification summary: 2/2 successful
+[2025-10-04 13:05:55] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-10-04 13:05:55] [INFO] FCM v1 notification summary: 1/1 successful
+[2025-10-04 13:05:55] [INFO] FCM v1 notification sent to token drcMOrakQxGGqEEGXXVg... HTTP: 200
+[2025-10-04 13:05:55] [INFO] FCM v1 notification summary: 1/1 successful

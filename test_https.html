@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTTPS Test</title>
+</head>
+<body>
+    <h1>🔒 HTTPS Çalışıyor!</h1>
+    <p>Bu sayfa HTTPS üzerinden yüklendiyse, SSL kurulumu başarılı.</p>
+    
+    <script>
+        console.log('Protocol:', location.protocol);
+        if (location.protocol === 'https:') {
+            document.body.style.backgroundColor = '#d4edda';
+            document.body.innerHTML += '<h2 style="color: green;">✅ HTTPS Aktif!</h2>';
+        } else {
+            document.body.style.backgroundColor = '#f8d7da';
+            document.body.innerHTML += '<h2 style="color: red;">❌ HTTP - HTTPS Gerekli</h2>';
+        }
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,296 @@
+[2025-09-25 21:06:03] [WARNING] Failed mobile login attempt: testkurye from ::1
+[2025-09-25 21:08:44] [WARNING] Failed mobile login attempt: testkurye from ::1
+[2025-09-25 21:09:09] [WARNING] Failed mobile login attempt: testkurye from ::1
+[2025-09-25 21:22:30] [ERROR] Mobile kurye dashboard error: Kurye bilgisi bulunamadı
+[2025-09-26 03:18:08] [ERROR] Mobile location update error: Kurye bilgisi bulunamadı
+[2025-09-26 03:41:45] [INFO] Successful mobile login: testkurye (kurye) from ::1
+[2025-09-26 03:41:45] [ERROR] Mobile API login error: Veritabanı sorgu hatası: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rating' in 'field list'
+[2025-09-26 03:42:04] [INFO] Successful mobile login: testkurye (kurye) from ::1
+[2025-09-26 03:42:04] [ERROR] Mobile API login error: Veritabanı sorgu hatası: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rating' in 'field list'
+[2025-09-26 03:42:15] [INFO] Successful mobile login: testkurye (kurye) from ::1
+[2025-09-26 03:42:17] [INFO] Successful mobile login: testkurye (kurye) from ::1
+[2025-09-26 03:42:19] [INFO] Successful mobile login: testkurye (kurye) from ::1
+[2025-09-26 03:46:25] [INFO] Successful mobile login: 2 (kurye) from 127.0.0.1
+[2025-09-26 03:50:13] [INFO] Successful mobile login: testkurye (kurye) from ::1
+[2025-09-26 03:50:55] [INFO] Successful mobile login: testkurye (kurye) from ::1
+[2025-09-26 03:51:06] [INFO] Successful mobile login: testkurye (kurye) from ::1
+[2025-09-26 03:54:29] [INFO] Successful mobile login: testkurye (kurye) from 127.0.0.1
+[2025-09-26 03:55:28] [INFO] Successful mobile login: 2 (kurye) from 127.0.0.1
+[2025-09-26 03:57:48] [INFO] Successful mobile login: testkurye (kurye) from ::1
+[2025-09-26 03:57:48] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 03:57:48] [INFO] Order ORD202509268212 accepted by courier testkurye via mobile app
+[2025-09-26 03:58:00] [INFO] Successful mobile login: testkurye (kurye) from ::1
+[2025-09-26 04:00:54] [WARNING] Failed mobile login attempt: test_kurye from 127.0.0.1
+[2025-09-26 04:01:02] [WARNING] Failed mobile login attempt: test_kurye from 127.0.0.1
+[2025-09-26 04:01:22] [INFO] Successful mobile login: test_kurye (kurye) from 127.0.0.1
+[2025-09-26 04:04:51] [INFO] Successful mobile login: test_kurye (kurye) from 127.0.0.1
+[2025-09-26 04:12:06] [INFO] Successful mobile login: test_kurye (kurye) from 127.0.0.1
+[2025-09-26 04:12:11] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 04:12:11] [INFO] Order ORD202509261305 accepted by courier test_kurye via mobile app
+[2025-09-26 04:28:44] [INFO] Successful mobile login: 2 (kurye) from 127.0.0.1
+[2025-09-26 04:29:00] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 04:29:00] [INFO] Order ORD202509262484 accepted by courier 2 via mobile app
+[2025-09-26 04:32:35] [INFO] Successful mobile login: 2 (kurye) from 127.0.0.1
+[2025-09-26 04:55:18] [INFO] Successful mobile login: 2 (kurye) from 127.0.0.1
+[2025-09-26 04:56:17] [INFO] Courier status updated for 2: is_online: true, is_available: true
+[2025-09-26 04:58:07] [INFO] Courier status updated for 2: is_online: true, is_available: true
+[2025-09-26 05:02:12] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 05:02:12] [INFO] Order ORD202509262484 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 05:02:34] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 05:02:34] [INFO] Order ORD202509263840 accepted by courier 2 via mobile app
+[2025-09-26 05:02:39] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 05:02:39] [INFO] Order ORD202509263840 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 05:05:16] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 05:05:16] [INFO] Order ORD202509262484 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 05:05:27] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 05:05:27] [INFO] Order ORD202509263653 accepted by courier 2 via mobile app
+[2025-09-26 05:05:37] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 05:05:37] [INFO] Order ORD202509263653 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 05:05:43] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 05:05:43] [INFO] Order ORD202509263840 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 05:35:31] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 05:35:31] [INFO] Order ORD202509263653 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 05:36:28] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 05:36:28] [INFO] Order ORD202509265883 accepted by courier 2 via mobile app
+[2025-09-26 05:36:31] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 05:36:31] [INFO] Order ORD202509265883 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 05:36:37] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 05:36:37] [INFO] Order ORD202509265883 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 05:41:47] [INFO] Successful mobile login: 2 (kurye) from 127.0.0.1
+[2025-09-26 06:10:34] [INFO] Successful mobile login: 2 (kurye) from 127.0.0.1
+[2025-09-26 06:13:16] [INFO] Successful mobile login: 2 (kurye) from 127.0.0.1
+[2025-09-26 06:16:21] [INFO] Successful mobile login: 2 (kurye) from 127.0.0.1
+[2025-09-26 06:32:31] [INFO] Successful mobile login: 2 (kurye) from 127.0.0.1
+[2025-09-26 06:42:58] [INFO] Successful mobile login: 2 (kurye) from 127.0.0.1
+[2025-09-26 06:45:45] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 06:45:45] [INFO] Order ORD202509260508 accepted by courier 2 via mobile app
+[2025-09-26 06:46:00] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 06:46:00] [INFO] Order ORD202509260508 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 06:46:01] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 06:46:01] [INFO] Order ORD202509260508 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 06:46:02] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 06:46:02] [INFO] Order ORD202509267339 accepted by courier 2 via mobile app
+[2025-09-26 06:46:04] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 06:46:04] [INFO] Order ORD202509267339 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 06:46:08] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 06:46:08] [INFO] Order ORD202509267339 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 06:46:10] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 06:46:10] [INFO] Order ORD202509266425 accepted by courier 2 via mobile app
+[2025-09-26 06:55:39] [INFO] Successful mobile login: 2 (kurye) from 127.0.0.1
+[2025-09-26 06:55:58] [INFO] Courier status updated for 2: is_online: true, is_available: true
+[2025-09-26 07:00:41] [INFO] Successful mobile login: 2 (kurye) from 127.0.0.1
+[2025-09-26 07:00:49] [INFO] Courier status updated for 2: is_online: true, is_available: false
+[2025-09-26 07:04:59] [INFO] Successful mobile login: 2 (kurye) from 127.0.0.1
+[2025-09-26 07:05:06] [INFO] Courier status updated for 2: is_online: true, is_available: true
+[2025-09-26 07:09:40] [INFO] Successful mobile login: 2 (kurye) from 127.0.0.1
+[2025-09-26 07:09:47] [INFO] Courier status updated for 2: is_online: true, is_available: false
+[2025-09-26 07:09:53] [INFO] Courier status updated for 2: is_online: false, is_available: false
+[2025-09-26 07:10:02] [INFO] Courier status updated for 2: is_online: true, is_available: true
+[2025-09-26 07:10:12] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 07:10:12] [INFO] Order ORD202509260250 accepted by courier 2 via mobile app
+[2025-09-26 07:10:51] [INFO] Courier status updated for 2: is_online: true, is_available: true
+[2025-09-26 07:10:54] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 07:10:54] [INFO] Order ORD202509266556 accepted by courier 2 via mobile app
+[2025-09-26 07:23:28] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.12
+[2025-09-26 07:23:39] [INFO] Courier status updated for 2: is_online: true, is_available: true
+[2025-09-26 07:24:46] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.12
+[2025-09-26 07:25:54] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 07:25:54] [INFO] Order ORD202509266425 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 07:25:56] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 07:25:56] [INFO] Order ORD202509266425 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 07:37:24] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.137
+[2025-09-26 07:37:33] [INFO] Courier status updated for 2: is_online: true, is_available: false
+[2025-09-26 07:37:55] [INFO] Courier status updated for 2: is_online: true, is_available: true
+[2025-09-26 07:38:58] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 07:38:58] [INFO] Order ORD202509269684 accepted by courier 2 via mobile app
+[2025-09-26 07:39:41] [INFO] Courier status updated for 2: is_online: true, is_available: true
+[2025-09-26 07:39:47] [INFO] Courier status updated for 2: is_online: true, is_available: false
+[2025-09-26 07:48:11] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.137
+[2025-09-26 07:48:19] [INFO] Courier status updated for 2: is_online: true, is_available: true
+[2025-09-26 07:48:22] [INFO] Courier status updated for 2: is_online: true, is_available: false
+[2025-09-26 07:48:24] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 07:48:24] [INFO] Order ORD202509267016 accepted by courier 2 via mobile app
+[2025-09-26 07:48:31] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 07:48:31] [INFO] Order ORD202509260250 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 07:48:33] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 07:48:33] [INFO] Order ORD202509260250 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 07:48:34] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 07:48:34] [INFO] Order ORD202509266556 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 07:48:35] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 07:48:35] [INFO] Order ORD202509266556 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 07:48:37] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 07:48:37] [INFO] Order ORD202509269684 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 07:48:38] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 07:48:38] [INFO] Order ORD202509269684 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 07:48:39] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 07:48:39] [INFO] Order ORD202509267016 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 07:48:41] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 07:48:41] [INFO] Order ORD202509267016 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 07:48:47] [INFO] Courier status updated for 2: is_online: true, is_available: false
+[2025-09-26 07:48:50] [INFO] Courier status updated for 2: is_online: true, is_available: true
+[2025-09-26 08:09:36] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.137
+[2025-09-26 08:15:59] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.137
+[2025-09-26 08:22:14] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 08:22:14] [INFO] Order ORD202509260164 accepted by courier 2 via mobile app
+[2025-09-26 08:22:16] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 08:22:16] [INFO] Order ORD202509267376 accepted by courier 2 via mobile app
+[2025-09-26 08:22:18] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 08:22:18] [INFO] Order ORD202509262599 accepted by courier 2 via mobile app
+[2025-09-26 08:22:19] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 08:22:19] [INFO] Order ORD202509267852 accepted by courier 2 via mobile app
+[2025-09-26 08:23:49] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.137
+[2025-09-26 08:23:56] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 08:23:56] [INFO] Order ORD202509260164 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 08:24:02] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 08:24:02] [INFO] Order ORD202509267376 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 08:24:04] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 08:24:04] [INFO] Order ORD202509267852 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 08:24:35] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 08:24:35] [INFO] Order ORD202509260164 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 08:24:37] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 08:24:37] [INFO] Order ORD202509262599 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 08:24:41] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 08:24:41] [INFO] Order ORD202509267852 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 08:24:42] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 08:24:42] [INFO] Order ORD202509262599 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 08:24:43] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 08:24:43] [INFO] Order ORD202509267376 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 08:26:22] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 08:26:22] [INFO] Order ORD202509265843 accepted by courier 2 via mobile app
+[2025-09-26 08:26:27] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 08:26:27] [INFO] Order ORD202509265843 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 08:26:28] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 08:26:28] [INFO] Order ORD202509265843 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 08:36:21] [INFO] Successful mobile login: test_kurye (kurye) from 192.168.1.137
+[2025-09-26 08:36:24] [INFO] Courier status updated for test_kurye: is_online: true, is_available: true
+[2025-09-26 08:36:24] [INFO] Courier status updated for test_kurye: is_online: true, is_available: true
+[2025-09-26 08:36:24] [INFO] Courier status updated for test_kurye: is_online: true, is_available: true
+[2025-09-26 08:36:30] [INFO] Courier status updated for test_kurye: is_online: true, is_available: true
+[2025-09-26 08:38:15] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.12
+[2025-09-26 08:38:28] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 08:38:28] [INFO] Order ORD202509261305 status updated from 'accepted' to 'picked_up' by courier test_kurye
+[2025-09-26 08:38:29] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 08:38:29] [INFO] Order ORD202509261305 status updated from 'picked_up' to 'delivered' by courier test_kurye
+[2025-09-26 08:46:39] [WARNING] Failed mobile login attempt: test_kurye from 192.168.1.12
+[2025-09-26 08:46:47] [INFO] Successful mobile login: test_kurye (kurye) from 192.168.1.12
+[2025-09-26 08:50:58] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.137
+[2025-09-26 09:07:35] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.12
+[2025-09-26 09:08:10] [WARNING] Failed mobile login attempt: test_kuye from 192.168.1.137
+[2025-09-26 09:08:21] [INFO] Successful mobile login: test_kurye (kurye) from 192.168.1.137
+[2025-09-26 09:09:29] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 09:09:29] [INFO] Order ORD202509260521 accepted by courier 2 via mobile app
+[2025-09-26 09:09:54] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 09:09:54] [INFO] Order ORD202509260521 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 09:10:18] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 09:10:18] [INFO] Order ORD202509260521 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 09:28:27] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 09:28:27] [INFO] Order ORD202509269163 accepted by courier test_kurye via mobile app
+[2025-09-26 09:28:31] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 09:28:31] [INFO] Order ORD202509261189 accepted by courier test_kurye via mobile app
+[2025-09-26 09:28:34] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 09:28:34] [INFO] Order ORD202509267878 accepted by courier test_kurye via mobile app
+[2025-09-26 09:28:39] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 09:28:39] [INFO] Order ORD202509261189 status updated from 'accepted' to 'picked_up' by courier test_kurye
+[2025-09-26 09:28:42] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 09:28:42] [INFO] Order ORD202509267878 status updated from 'accepted' to 'picked_up' by courier test_kurye
+[2025-09-26 09:28:51] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 09:28:51] [INFO] Order ORD202509269163 status updated from 'accepted' to 'picked_up' by courier test_kurye
+[2025-09-26 09:29:04] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 09:29:04] [INFO] Order ORD202509269163 status updated from 'picked_up' to 'delivered' by courier test_kurye
+[2025-09-26 09:29:07] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 09:29:07] [INFO] Order ORD202509261189 status updated from 'picked_up' to 'delivered' by courier test_kurye
+[2025-09-26 09:29:09] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 09:29:09] [INFO] Order ORD202509267878 status updated from 'picked_up' to 'delivered' by courier test_kurye
+[2025-09-26 09:36:24] [INFO] Successful mobile login: test_kurye (kurye) from 192.168.1.137
+[2025-09-26 09:38:39] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 09:38:39] [INFO] Order ORD202509262197 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 09:38:41] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 09:38:41] [INFO] Order ORD202509262197 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 09:43:38] [INFO] Successful mobile login: test_kurye (kurye) from 192.168.1.137
+[2025-09-26 09:48:15] [INFO] Successful mobile login: test_kurye (kurye) from 192.168.1.137
+[2025-09-26 09:49:30] [INFO] Courier status updated for test_kurye: is_online: true, is_available: false
+[2025-09-26 09:50:25] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 09:50:25] [INFO] Order ORD202509269936 status updated from 'accepted' to 'picked_up' by courier test_kurye
+[2025-09-26 09:50:42] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 09:50:42] [INFO] Order ORD202509269936 status updated from 'picked_up' to 'delivered' by courier test_kurye
+[2025-09-26 09:50:47] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 09:50:47] [INFO] Order ORD202509261469 status updated from 'accepted' to 'picked_up' by courier test_kurye
+[2025-09-26 09:50:51] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 09:50:51] [INFO] Order ORD202509261469 status updated from 'picked_up' to 'delivered' by courier test_kurye
+[2025-09-26 10:05:13] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.12
+[2025-09-26 12:01:38] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.137
+[2025-09-26 12:06:13] [WARNING] Failed mobile login attempt: test_kurye from 192.168.1.12
+[2025-09-26 12:06:18] [INFO] Successful mobile login: test_kurye (kurye) from 192.168.1.12
+[2025-09-26 12:17:00] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.137
+[2025-09-26 12:18:11] [WARNING] Failed mobile login attempt: 3 from 192.168.1.12
+[2025-09-26 12:18:18] [WARNING] Failed mobile login attempt: 3 from 192.168.1.12
+[2025-09-26 12:18:27] [WARNING] Failed mobile login attempt: 3 from 192.168.1.12
+[2025-09-26 12:18:47] [INFO] Successful mobile login: 3 (kurye) from 192.168.1.12
+[2025-09-26 12:20:01] [INFO] Courier status updated for 2: is_online: true, is_available: false
+[2025-09-26 12:20:39] [INFO] Courier status updated for 2: is_online: true, is_available: true
+[2025-09-26 12:20:45] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 12:20:45] [INFO] Order ORD202509260511 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 12:20:46] [INFO] Courier status updated for 2: is_online: true, is_available: false
+[2025-09-26 12:20:47] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 12:20:47] [INFO] Order ORD202509269022 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 12:20:50] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 12:20:50] [INFO] Order ORD202509261919 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 12:20:53] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 12:20:53] [INFO] Order ORD202509260511 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 12:20:55] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 12:20:55] [INFO] Order ORD202509269022 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 12:37:21] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 12:37:21] [INFO] Order ORD202509260572 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 12:37:40] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 12:37:40] [INFO] Order ORD202509263869 accepted by courier 2 via mobile app
+[2025-09-26 12:37:47] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 12:37:47] [INFO] Order ORD202509260572 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 12:37:48] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kurye_system.siparis_durum_gecmisi' doesn't exist
+[2025-09-26 12:37:48] [INFO] Order ORD202509261919 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 12:49:05] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.137
+[2025-09-26 15:26:28] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.137
+[2025-09-26 17:38:01] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.137
+[2025-09-26 17:38:51] [ERROR] Mobile update courier status error: Veritabanı sorgu hatası: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `kurye_system`.`kuryeler`.`is_available` at row 1
+[2025-09-26 17:39:26] [ERROR] Mobile update courier status error: Veritabanı sorgu hatası: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `kurye_system`.`kuryeler`.`is_available` at row 1
+[2025-09-26 17:53:41] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.137
+[2025-09-26 17:53:49] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'old_status' in 'field list'
+[2025-09-26 17:53:49] [INFO] Order ORD202509262537 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 17:53:51] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'old_status' in 'field list'
+[2025-09-26 17:53:51] [INFO] Order ORD202509266259 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 17:53:52] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'old_status' in 'field list'
+[2025-09-26 17:53:52] [INFO] Order ORD202509266259 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 17:53:53] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'old_status' in 'field list'
+[2025-09-26 17:53:53] [INFO] Order ORD202509262537 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 17:53:56] [INFO] Courier status updated for 2: is_online: true, is_available: false
+[2025-09-26 17:54:07] [INFO] Courier status updated for 2: is_online: true, is_available: false
+[2025-09-26 17:54:12] [INFO] Courier status updated for 2: is_online: true, is_available: true
+[2025-09-26 17:54:17] [INFO] Courier status updated for 2: is_online: true, is_available: true
+[2025-09-26 17:54:22] [INFO] Courier status updated for 2: is_online: false, is_available: false
+[2025-09-26 17:54:29] [INFO] Courier status updated for 2: is_online: true, is_available: false
+[2025-09-26 17:54:35] [INFO] Courier status updated for 2: is_online: true, is_available: false
+[2025-09-26 17:54:39] [INFO] Courier status updated for 2: is_online: true, is_available: true
+[2025-09-26 17:54:45] [INFO] Courier status updated for 2: is_online: true, is_available: false
+[2025-09-26 17:54:50] [INFO] Courier status updated for 2: is_online: true, is_available: true
+[2025-09-26 17:54:59] [INFO] Courier status updated for 2: is_online: true, is_available: false
+[2025-09-26 17:55:07] [INFO] Courier status updated for 2: is_online: true, is_available: true
+[2025-09-26 17:58:22] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'old_status' in 'field list'
+[2025-09-26 17:58:22] [INFO] Order ORD202509262577 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-09-26 17:58:24] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'old_status' in 'field list'
+[2025-09-26 17:58:24] [INFO] Order ORD202509262577 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-09-26 18:18:52] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.137
+[2025-09-26 18:20:36] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.137
+[2025-09-26 20:30:39] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.137
+[2025-09-26 21:37:07] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'old_status' in 'field list'
+[2025-09-26 21:37:07] [INFO] Order ORD202509261474 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-10-04 12:36:33] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.137
+[2025-10-04 12:57:58] [INFO] Successful mobile login: 2 (kurye) from 192.168.1.137
+[2025-10-04 13:06:15] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'old_status' in 'field list'
+[2025-10-04 13:06:15] [INFO] Order ORD202510044811 accepted by courier 2 via mobile app
+[2025-10-04 13:06:58] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'old_status' in 'field list'
+[2025-10-04 13:06:58] [INFO] Order ORD202509269525 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-10-04 13:07:00] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'old_status' in 'field list'
+[2025-10-04 13:07:00] [INFO] Order ORD202509269525 status updated from 'picked_up' to 'delivered' by courier 2
+[2025-10-04 13:07:02] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'old_status' in 'field list'
+[2025-10-04 13:07:02] [INFO] Order ORD202510044811 status updated from 'accepted' to 'picked_up' by courier 2
+[2025-10-04 13:07:04] [WARNING] Sipariş geçmişi kaydedilemedi: Veritabanı sorgu hatası: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'old_status' in 'field list'
+[2025-10-04 13:07:04] [INFO] Order ORD202510044811 status updated from 'picked_up' to 'delivered' by courier 2
